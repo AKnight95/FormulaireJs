@@ -1,0 +1,22 @@
+body{
+    background-image: url('https://cdn.discordapp.com/attachments/953370280313626624/1002478873637822494/gradientExo.png?width=1205&height=678');
+}
+
+form{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+}
+
+.mb-3{
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+    flex-direction: column;
+}
+
+input{
+    width: 50% !important;
+}
